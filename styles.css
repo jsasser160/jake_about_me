@@ -1,0 +1,81 @@
+body {
+  height: 100%;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.content-footer {
+text-align: center;
+}
+
+.image {
+  padding: 7.5em 0;
+  background-image: url('images/IMG_0796.JPG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.image-intro {
+  margin-bottom: 0.1em;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 2em;
+}
+
+
+.image-heading {
+  color: #01ABAA;
+  margin-top: -0.2em;
+  font-family: 'Shadows Into Light', cursive;  
+  font-weight: bold;
+  font-size: 6em;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+.introduction,
+.content-footer,
+.image-heading
+.image-intro {
+  text-align: center;
+}
+
+.image-intro {
+  margin-bottom: 0.1em;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 2em;
+}
+
+.introduction h1 {
+  font-family: "Open Sans", "Helvetica Neuve", sans-serif;
+}
+
+.image-heading {
+  font-family: 'Caveat', cursive;  
+  font-weight: bold;
+  font-display: uppercase;
+}
+
+.content-footer {
+margin: 50px 0;
+padding: 20px 0;
+text-align: center;
+background-color: #373737;
+text-decoration: none;
+}
+
+.social > li {
+display: inline-block;
+margin: 0 5px;
+}
+
+.content-footer > p {
+  color: #F7EDE1;
+  }
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: peachpuff;
+}
